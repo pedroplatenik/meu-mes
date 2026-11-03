@@ -1,0 +1,8 @@
+build/
+tmp/
+chave/
+*.jks
+*.keystore
+*.apk
+meus-dados*.json
+meu-mes-*.json
