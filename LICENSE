@@ -1,0 +1,23 @@
+Copyright (c) 2026 Pedro Platenik. Todos os direitos reservados.
+
+Este repositório está público apenas para consulta.
+
+Nenhuma parte deste projeto (código-fonte, interface, textos, ícones, imagens e
+documentação) pode ser copiada, modificada, distribuída, sublicenciada, vendida
+ou usada em outros projetos, no todo ou em parte, sem autorização prévia e por
+escrito do autor.
+
+É permitido baixar e instalar os aplicativos publicados na página de Releases
+deste repositório, ou usar a versão web oficial, para uso pessoal e não
+comercial.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU
+IMPLÍCITA. EM NENHUMA HIPÓTESE O AUTOR SERÁ RESPONSÁVEL POR QUALQUER
+REIVINDICAÇÃO, DANO OU OUTRA RESPONSABILIDADE DECORRENTE DO USO DO SOFTWARE.
+
+Componentes de terceiros: os arquivos Microsoft.Web.WebView2.Core.dll,
+Microsoft.Web.WebView2.WinForms.dll e WebView2Loader.dll, incluídos no pacote
+para Windows, pertencem à Microsoft Corporation e são distribuídos de acordo
+com a licença da Microsoft para o WebView2.
+
+Para pedir autorização: https://github.com/pedroplatenik
